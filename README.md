@@ -1,5 +1,5 @@
 Text Adventure Game
-Welcome to the Text Adventure Game! This is a Java-based interactive text adventure where the player explores rooms, interacts with items, and faces a final boss. The game demonstrates fundamental programming concepts and provides a fun, interactive experience.
+This is a Java-based interactive text adventure where the player explores rooms, interacts with items, and faces a final boss. The game demonstrates fundamental programming concepts and provides a fun, interactive experience.
 
 Features
 Exploration: Move between rooms using commands like go east and go west. Each room has unique descriptions and items.
